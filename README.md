@@ -1,2 +1,3 @@
 # python_homework1
 python homework
+I need tutoring. I'm having many issues understanding file transfering to both github and to JupyterLab. I have the .csv in Jupyter but no matter what I do I cannot read it. I have other files in this repo because I've been trying to experiment - I can get files here but not thru the terminal. Regarding Jupyter lab, I'm at a complete loss. The only thing I notice that looks odd is a message in the lower left-hand corner that says "No Kernel|Initializing". Not sure what to do with that. I've been at this for 2 days and I haven't been able to read the budget_data.csv file for this assignment.  
